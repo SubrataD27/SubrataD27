@@ -24,6 +24,10 @@ Here are some of my top projects:
 
 ## 📈 GitHub Stats:
 ![Subrata's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![React](https://img.shields.io/badge/React-16.x-blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-blue)
+
 
 ## 📬 Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/subrata-dhibar)
