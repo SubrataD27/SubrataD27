@@ -70,7 +70,7 @@ I'm a **Computer Science student** at GIET Gunupur, passionate about leveraging 
 
 - **LinkedIn**: [linkedin.com/in/subrata-dhibar](https://www.linkedin.com/in/subrata-dhibar)  
 - **Twitter**: [@subratadhibar17](https://twitter.com/subratadhibar17)  
-- **Portfolio**: [subrato.netlify.app](https://subrato.netlify.app)  
+- **Portfolio**: [Check out my website](https://visitsubrato.netlify.app/)
 
 ---
 
