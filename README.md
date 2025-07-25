@@ -36,29 +36,6 @@ I'm a **Computer Science student** at GIET Gunupur, passionate about leveraging 
 
 ---
 
-## 🌟 Featured Projects  
-
-### **1. [Wearable Fall Detection System](https://github.com/SubrataD27/SIH_2024-PSID-1580.git)**  
-> **Technologies:** Python, TensorFlow, Raspberry Pi, MQTT  
-- Built a system to detect and alert for accidental falls using IoT sensors (MPU6050, MAX30100).  
-- Integrated ML models for higher prediction accuracy and real-time monitoring.  
-
-### **2. [Crop Recommendation System](https://github.com/SubrataD27/CROP-DOCTOR.git)**  
-> **Technologies:** Python, scikit-learn, Streamlit  
-- A smart recommendation system for farmers to identify the best crops for their environment.  
-- Features a user-friendly interface for predictions based on weather, soil, and other parameters.  
-
-### **3. [Health Care System System](https://github.com/SubrataD27/Health-Care-Centre-diease-prediction-medical-recommendation-system.git)**  
-> **Technologies:** Flask, TensorFlow, HTML/CSS  
-- Developed a system to predict diseases and recommend treatment using input symptoms.  
-- Focused on improving healthcare accessibility using AI.
-
-### 3. **[AI-based CHATBOTZZ](https://github.com/SubrataD@7)** 
-   - USES open AI COHERE and then helps as a Ai Assistant
-   -  Technologes: Flask, Python, TensorFlow, Keras 
-
----
-
 ## 📈 GitHub Highlights  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SubrataD27&show_icons=true&count_private=true&hide_border=true&theme=radical)  
