@@ -70,15 +70,15 @@ I'm a **Computer Science student** at GIET Gunupur, passionate about leveraging 
 
 - **LinkedIn**: [linkedin.com/in/subrata-dhibar](https://www.linkedin.com/in/subrata-dhibar)  
 - **Twitter**: [@subratadhibar17](https://twitter.com/subratadhibar17)  
-- **Portfolio**: [Check out my website](https://visitsubrato.netlify.app/)
 
 ---
 
 ## 🏆 Achievements  
-
+- Finalist at Cyber Hack 2025 an initiative by Cyber Police Nagpur City | IIM NAGPUR
+- Winner at 6th Technovation Hackathon | SHARDA UNIVERSITY , Greater Noida
 - Participating in **SIH 2024** with an IoT-based project for accident detection.  
 - Built multiple innovative projects that bridge hardware and software.  
-- Certified in **Cloud Computing**, **Machine Learning**, and **IoT** tools.  
+- Certified in **Cloud Computing**.  
 
 ---
 
