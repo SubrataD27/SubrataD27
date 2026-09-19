@@ -57,10 +57,10 @@ B2G2C healthcare ecosystem with multilingual AI diagnostics for rural India.
 
 | Award | Event | Year | Prize |
 |-------|-------|------|-------|
-| **National Champion** | NITIQuest India 2026 | 2026 | INR 2.0 Lakh + Best Innovation Award |
+| **National Champion** | NITIQuest India 2026 | 2026 | INR 2.0 Lakh + Best Defence Innovation Award |
 | **1st Place** | Campus Hackfest 2026 (Startup Odisha) | 2026 | Led Team Tejas among 23 shortlisted teams across Odisha |
 | **1st Position** | 6th Technovation Hackathon (Sharda University) | 2025 | INR 25,000 |
-| **1st Prize** | Learnathon 2025 (GIET University) | 2025 | Campus-level recognition |
+| **1st Prize** | Learnathon 2025 (GIET University) | 2025 | Campus-level recognition INR 20,000|
 | **3rd National Prize** | Sustain-A-Thon 2025 (Sharda University) | 2025 | INR 20,000 |
 | **Finalist** | CyberHack 2025 (IIM Nagpur / Cyber Police) | 2025 | Presented VDS3 prototype |
 | **Cybersecurity Certification** | MacLead Certifications | 2025 | CMMC Foundation |
