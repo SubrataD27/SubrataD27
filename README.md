@@ -49,7 +49,7 @@ AI-powered airspace protection system for critical infrastructure.
 B2G2C healthcare ecosystem with multilingual AI diagnostics for rural India.
 - Integrates BSKY and ABDM government schemes; AI chatbot in Hindi/Odia/English
 - **Won 1st Prize at Learnathon 2025** – GIET University recognition for impactful innovation
-- **Stack:** React.js, Flask, Supabase, Gemini API
+- **Stack:** React.js, Flask, Supabase, Open-Source API
 
 ---
 
