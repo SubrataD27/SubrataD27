@@ -42,7 +42,7 @@ Contactless AI monitoring for Indian Railways using 3D LiDAR, GPR, and thermal i
 AI-powered airspace protection system for critical infrastructure.
 - **Won National Champion at NITIQuest India 2026** – INR 2.0 Lakh grant + Best Defense & Aerospace Innovation Award
 - Secured INR 1.47 Lakh seed funding; progressed to TRL 3 through real-time testing
-- Officially supported by GIET University Registrar and mentored by Dr. Raghvendra Kumar (R&D Cell)
+- Officially supported by GIET University Registrar Sir
 - **Stack:** Python, Arduino, React.js, RF Sensors, IoT
 
 ### **Apna Swasthya Saathi – Rural Healthcare Platform**
