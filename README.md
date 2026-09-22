@@ -69,14 +69,16 @@ B2G2C healthcare ecosystem with multilingual AI diagnostics for rural India.
 
 ---
 
-## 📊 GitHub Activity
- 
-[![Subrata's GitHub stats](https://github-readme-stats.vercel.app/api?username=SubrataD27&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/SubrataD27)
- 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SubrataD27&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/SubrataD27)
- 
-**Contributions:** Active contributor to AI, full-stack, and IoT projects. Explore my repositories for implementation details on DRISHTI, Vayu-Kavach, and enterprise solutions.
- 
+## 📊 GitHub Activity & Stats
+
+<a href="https://github.com/SubrataD27">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SubrataD27&show_icons=true&count_private=true&theme=github_dark&hide_border=true" alt="Subrata's GitHub Stats"/>
+</a>
+
+<a href="https://github.com/SubrataD27">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubrataD27&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
+</a>
+
 ---
 
 ## 🔗 Let's Connect
