@@ -5,14 +5,14 @@ Based in **Bengaluru, India** | B.Tech Computer Science & AI/ML, GIET University
 
 ---
 
-## 🎯 What I'm Doing
+## 🎯 What projects I worked upon
 
 At Grant Thornton, I work on enterprise AI systems in the Digital Competency (dGTL) team:
 - **AI Finance Portal** – Invoice extraction pipelines and client-side reconciliation engines (React.js, Node.js)
 - **Agentic Workflows** – MCP-based AI agent pipelines for banking (Moneta) and infrastructure (Adani Ports) clients
 - **Analytics & Dashboards** – Production dashboards serving executive presentations
 
-**Technical focus:** Agentic AI (MCP), Full-Stack Development, Computer Vision, IoT Systems, REST APIs, ML ops
+**Tech Stacks:** Agentic AI (MCP), Full-Stack Development, REST APIs, ML ops, React.js, Node.js, Python, PostgreSQL, Azure, MCP, FastAPI
 
 ---
 
@@ -66,19 +66,6 @@ B2G2C healthcare ecosystem with multilingual AI diagnostics for rural India.
 | **Cybersecurity Certification** | MacLead Certifications | 2025 | CMMC Foundation |
 
 **4× University-level hackathon winner** with multiple 1st Prize finishes across 18 states
-
----
-
-## 💼 Professional Experience
-
-### **AI Engineer Intern** | Grant Thornton Bharat LLP 
-*Digital Competency (dGTL), Bengaluru, Karnataka*
-
-- **AI Finance Portal:** Built core invoice-extraction pipeline and custom client-side reconciliation engine for Harman International; validated against real invoice data
-- **Agentic Workflows:** Designed MCP-based AI agent pipelines for enterprise engagements across banking (Moneta) and infrastructure (Adani Ports) sectors
-- **Analytics Dashboard:** Debugged and enhanced client-facing React.js/Node.js dashboard; resolved confirmed defects and improved visualizations for executive presentations
-
-**Tech Stack:** React.js, Node.js, Python, PostgreSQL, Azure, MCP, FastAPI
 
 ---
 
